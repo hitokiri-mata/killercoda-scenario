@@ -1,0 +1,4 @@
+---
+title: Permitir que la veterinaria atienda a caballos
+body: "De **Paulo**:\r![](https://s3.amazonaws.com/devopsdojoassets/paulo.png)\r\r>**Como** cliente,\r**Quiero** poder registrar mi caballo en la veterinaria,\r**Para que** puedan atender a mi mascota.\r\r**Criterios de Aceptación**:\r* Un dueño puede registrar un caballo como mascota\r* Cargar información de caballos para presentar esta funcionalidad a los veterinarios y clientes."
+labels: [":bulb: user_story", "P1", "3"]
