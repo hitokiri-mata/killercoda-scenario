@@ -46,15 +46,6 @@
     ],
     "intro": {
       "text": "intro.md"
-    },
-    "assets": {
-      "host01": [
-        {"file": "prepare.sh", "target": "~/","chmod": "+x"},
-        {"file": "index.html", "target": "~/nginx"}
-      ]
-    },
-    "finish": {
-      "text": "finish.md"
     }
   }
 }
