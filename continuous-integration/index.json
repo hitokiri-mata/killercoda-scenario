@@ -1,51 +1,16 @@
 {
-  "pathwayTitle": "DevOps Labs",
-  "private": false,
-  "title": "Continuous Integration",
-  "description": "Continuous Integration",
-  "difficulty": "Básico",
-  "time": "40 minutos",
-  "details": {
-    "steps": [
-      {
-        "title": "Preparación",
-        "text": "step1.md" 
-      },
-      {
-        "title": "Ingresa a Jenkins",
-        "text": "step2.md"
-      },
-      {
-        "title": "Implementa una nueva Historia de Usuario",
-        "text": "step3.md"
-      },
-      {
-        "title": "Crea un Pull Request para integrar los cambios en la Rama Principal",
-        "text": "step4.md"
-      },
-      {
-        "title": "Ejecución del Pipeline de Continuous Integration",
-        "text": "step5.md"
-      },
-      {
-        "title": "Corrige el Error",
-        "text": "step6.md"
-      },
-      {
-        "title": "Invita a alguien a que revise el Pull Request",
-        "text": "step7.md"
-      },
-      {
-        "title": "Integra los cambios en Master",
-        "text": "step8.md"
-      },
-      {
-        "title": "Revisa el Paquete de Despliegue",
-        "text": "step9.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
-    }
-  }
+	"pathwayTitle": "DevOps Labs",
+	"private": false,
+	"title": "Continuous Integration",
+	"description": "Continuous Integration",
+	"difficulty": "BÃ¡sico",
+	"time": "40 minutos",
+	"details": {
+		"steps": [
+			{
+				"title": "PreparaciÃ³n",
+				"text": "step1.md"
+			}
+		]
+	}
 }
