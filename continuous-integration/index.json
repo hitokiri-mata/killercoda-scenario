@@ -12,6 +12,6 @@
     ]
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "devopsdojo-jenkins-yb"
   }
 }
