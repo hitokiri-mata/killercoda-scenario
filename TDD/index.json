@@ -1,16 +1,21 @@
 {
-	"pathwayTitle": "DevOps Labs",
-	"private": false,
-	"title": "Continuous Integration",
-	"description": "Continuous Integration",
-	"difficulty": "Básico",
-	"time": "40 minutos",
-	"details": {
-		"steps": [
-			{
-				"title": "Preparación",
-				"text": "step1.md"
-			}
-		]
-	}
+  "title": "TDD",
+  "description": "Test Driven Development",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Let's update our package manager repository",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "docker"
+  }
 }
