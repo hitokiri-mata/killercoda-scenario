@@ -1,0 +1,51 @@
+{
+  "title": "Jenkins",
+  "description": "Learning Jenkins",
+  "difficulty": "Beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md"
+      },
+      {
+        "text": "step2.md"
+      },
+      {
+        "text": "step3.md"
+      },
+      {
+        "text": "step4.md"
+      },
+      {
+        "text": "step5.md"
+      },
+      {
+        "text": "step6.md"
+      },
+      {
+        "text": "step7.md"
+      },
+      {
+        "text": "step8.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  },
+  "environment": {
+    "uisettings": "bash",
+    "exclusionPatterns": ["*verify*"],
+    "hideHiddenFiles": true,
+    "showdashboard": true,
+    "dashboards": [
+        {"name": "Jenkins dashboard", "port": 8080}],
+    "uilayout": "terminal-iframe"
+  },
+  "backend": {
+    "imageid": "ubuntu:1804"
+  }
+}
+
+
