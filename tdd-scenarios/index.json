@@ -10,8 +10,8 @@
 		],
 		"intro": {
 			"text": "intro.md",
-			"code": "./courseReady.sh",
-			"courseData": "./courseBase.sh"
+			"code": "courseReady.sh",
+			"courseData": "courseBase.sh"
 		},
 		"finish": {
 			"text": "finish.md"

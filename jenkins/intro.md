@@ -7,10 +7,3 @@
 3. Build Triggers.
 
 
-<br/><br/>
-
-_**Author: Richard Lui**_ 
-<br/>
-_**Editor: Michel Dik**_
-
-<br/>
