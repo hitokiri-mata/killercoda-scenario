@@ -1,21 +1,23 @@
 {
-  "title": "TDD",
-  "description": "Test Driven Development",
-  "details": {
-    "intro": {
-      "text": "intro.md"
-    },
-    "steps": [
-      {
-        "title": "Let's update our package manager repository",
-        "text": "step1.md"
-      }
-    ],
-    "finish": {
-      "text": "finish.md"
-    }
-  },
-  "backend": {
-    "imageid": "ubuntu"
-  }
+	"title": "TDD",
+	"description": "Test Driven Development",
+	"details": {
+		"intro": {
+			"text": "intro.md",
+			"code": "./courseReady.sh",
+			"courseData": "./courseBase.sh"
+		},
+		"steps": [
+			{
+				"title": "Let's update our package manager repository",
+				"text": "step1.md"
+			}
+		],
+		"finish": {
+			"text": "finish.md"
+		}
+	},
+	"backend": {
+		"imageid": "ubuntu"
+	}
 }
