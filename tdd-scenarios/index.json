@@ -1,0 +1,50 @@
+{
+	"title": "Intermediate TDD",
+	"description": "An intermediate TDD example",
+	"details": {
+		"steps": [
+			{
+				"title": "Step 1",
+				"text": "step1.md"
+			}
+		],
+		"intro": {
+			"text": "intro.md",
+			"code": "./courseReady.sh",
+			"courseData": "./courseBase.sh"
+		},
+		"finish": {
+			"text": "finish.md"
+		},
+		"assets": {
+			"client": [
+				{
+					"file": "acceptance-tests.py",
+					"target": "~/"
+				},
+				{
+					"file": "run-acceptance-tests.sh",
+					"target": "~/"
+				},
+				{
+					"file": "unit-tests.py",
+					"target": "~/"
+				},
+				{
+					"file": "response1.html",
+					"target": "~/"
+				},
+				{
+					"file": "webscraper.py",
+					"target": "~/"
+				}
+			]
+		}
+	},
+	"environment": {
+		"uilayout": "editor-terminal"
+	},
+	"backend": {
+		"imageid": "python:3.8"
+	}
+}
